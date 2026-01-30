@@ -11,7 +11,7 @@
 
 💬 Ask me about **ETL design**, **data modeling**, **AI integration in analytics**, **Snowflake performance tuning**, and **Power BI automation**.  
 
-⚡ Fun fact: I love optimizing data pipelines for speed and efficiency — and when I’m not engineering data, I’m exploring new AI tools and sketching! 🎨  
+⚡ Fun fact: I love optimizing data pipelines for speed and efficiency and when I’m not engineering data, I’m exploring new AI tools and sketching! 🎨  
 
 ---
 
